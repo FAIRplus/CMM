@@ -47,6 +47,12 @@ What is the **level of FAIRness** ?
 -   Level of FAIRness measures the conformance of data objects to the FAIR principles.
     
 -   The conformance is measured by set of indicators
+
+See
+
+ [RDA Indicators](docs/RDA_Indicators.md)
+
+ [FAIR+ Indicators](docs/FAIR+Indicators.md)
     
 -   Indicators indicates maturity of data set corresponding to four letters of FAIR and Data Usage Areas
 
