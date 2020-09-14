@@ -19,9 +19,9 @@ This section provides methods and guidance for measuring FAIRness levels of data
 
 Please see : 
 
- [RDA Indicators](docs/RDA_Indicators.md)
+ [RDA Indicators](RDA_Indicators.md)
 
- [FAIR+ Indicators](docs/FAIR+Indicators.md)
+ [FAIR+ Indicators](FAIR+Indicators.md)
     
 -   Indicators indicates maturity of data set corresponding to four letters of FAIR and Data Usage Areas
 
