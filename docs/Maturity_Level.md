@@ -36,6 +36,12 @@ The indicator maturity levels are defined as follows:
 
 ### Visualization of Maturity Levels
 
-RDA suggest two different visualization methods
+RDA suggest two different visualization methods:
 
+1.
+![fairness_level_area](fairness_level_area.PNG)
 
+2. 
+![fairness_level_indicator](fairness_level_indicator.PNG)
+
+FAIRplus maturity levels for data usage areas together with RDA dimensions can be visualized as radar charts. 
