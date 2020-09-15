@@ -45,3 +45,7 @@ RDA suggest two different visualization methods:
 ![fairness_level_indicator](fairness_level_indicator.PNG)
 
 FAIRplus maturity levels for data usage areas together with RDA dimensions can be visualized as radar charts. 
+
+
+#### Reference :
+- RDA FAIR Data Maturity Model: specification and guidelines
