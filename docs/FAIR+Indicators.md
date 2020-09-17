@@ -1,4 +1,4 @@
-# FAIR + Indicators 
+# FAIR + Indicators
 > version 0.1
 
 
@@ -24,7 +24,7 @@
 
 <!-- toc -->
 
-#### <a name="F+S01"> F+S01 </a>
+#### <a name="F+S01"> F+S01 </a> : Data is reported by following community specific minimum information guidelines
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -33,7 +33,7 @@
 
 
 
-####  F+S02
+#### <a name="F+S02"> F+S02 </a> : Metadata documents and provides references about all data biological data types and formats in data is expressed.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -42,7 +42,7 @@
 
 
 
-#### F+S03
+#### <a name="F+S03"> F+S03 </a> :  Data is structured by following a life sciences domain model, core classes and their semantic relations refers to a common data model.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -51,16 +51,16 @@
 
 
 
-### Assays / Data Set Level: 
+### Assays / Data Set Level:
 
-#### F+A01
+#### <a name="F+A01"> F+A01 </a> :  Data is encoded in a community specific exchange standard.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
 | Description     | A data exchange standard defined the encoding format of data. A data exchange standard delineates what data types can be encoded and the particular way they should be encoded (e.g., tab-delimited columns, XML, binary, etc. They facilitate the exchange of information between researchers and organizations, and between software programs or information storage systems. ). They provide syntax standards but do not specify what the document should contain in order to be considered complete ([Chervitz, et all.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/)). See examples for [omic data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/table/T4/), for microarray-based [transcriptomics](https://www.researchgate.net/publication/257204855_A_sea_of_standards_for_omics_data_Sink_or_swim/figures) , for [clinical data](https://en.wikipedia.org/wiki/Clinical_Data_Interchange_Standards_Consortium#Individual_standards).<br/><br/>Extends RDA-I1-01D Data uses knowledge representation expressed in standardised format |
 | Related DU Area | Interpretability                                             |
 
-#### F+A02
+#### <a name="F+A02"> F+A02 </a> :  A formal description of the structure of data is available in a machine and human readable format including types, properties.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -69,7 +69,7 @@
 
 
 
-#### F+A03
+####  <a name="F+A03"> F+A03 </a> : Data is described with terminology standards.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -81,4 +81,4 @@
 
 
 
-### 
+###
