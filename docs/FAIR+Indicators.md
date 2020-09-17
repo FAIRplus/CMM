@@ -7,7 +7,7 @@
 
 
 
-| ID              | Indicators                                                   |
+| ID              | Indicators                                          |
 | --------------- | ------------------------------------------------------------ |
 | [F+S01](#F+S01) | Data is reported by following community specific minimum information guidelines |
 | [F+S02](#F+S02) | Metadata documents and provides references about all data biological data types and formats in data is expressed. |
@@ -16,11 +16,15 @@
 | [F+A02](#F+A02) | A formal description of the structure of data is available in a machine and human readable format including types, properties. |
 | [F+A03](#F+A03) | Data is described with terminology standards.                |
 
+```
 
+```
 
 ### Study Level
 
-#### F+S01
+<!-- toc -->
+
+#### <a name="F+S01"> F+S01 </a>
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
