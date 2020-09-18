@@ -1,7 +1,11 @@
 # FAIR + Indicators
 > version : v0.01
 
+<<<<<<< HEAD
 FAIRplus indicators are designed for measuring data sets compliance to Data Usage Areas. One indicator might support more than one [Data Usage Area]. Indicators are grouped according to the ISA framework.
+=======
+FAIRplus indicators are designed for measuring data sets compliance to Data Usage Areas. One indicator might support more than one Data Usage Area. Indicators are grouped according to the ISA framework. 
+>>>>>>> dcafd0ea2cfc87b4b48b82ad94d42d73c669bdf7
 
 ![ISA](img/isa-structure.png)
 
