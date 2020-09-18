@@ -3,7 +3,7 @@
 
 FAIRplus indicators are designed for measuring data sets compliance to Data Usage Areas. One indicator might support more than one [Data Usage Area]. Indicators are grouped according to the ISA framework. 
 
-![ISA](img\isa-structure.png)
+![ISA](img/isa-structure.png)
 
 Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Design_and_Development_of_a_Phenotypic_Data_Model_PDM) 
 

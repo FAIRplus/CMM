@@ -32,7 +32,7 @@ The indicator maturity levels are defined as follows:
 - Also measures the FAIRness per area. 
 	- It is measured per indicator and aggregated per FAIR area. The level per area is determined based on the compliance to priorities. This is used to provide a **measure of FAIRness**.
 
-![compliance-levels](img\compliance-levels.PNG)
+! [compliance-levels](img/compliance-levels.PNG)
 
 
 ### Visualization of Maturity Levels
@@ -40,10 +40,10 @@ The indicator maturity levels are defined as follows:
 RDA suggest two different visualization methods:
 
 1.
-![fairness_level_area](img\fairness_level_area.PNG)
+![fairness_level_area](img/fairness_level_area.PNG)
 
 2. 
-![fairness_level_indicator](img\fairness_level_indicator.PNG)
+![fairness_level_indicator](img/fairness_level_indicator.PNG)
 
 FAIRplus maturity levels for data usage areas together with RDA dimensions can be visualized as radar charts. 
 
