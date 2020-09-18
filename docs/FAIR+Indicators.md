@@ -1,7 +1,11 @@
 # FAIR + Indicators
-> version 0.1
+> version : v0.01
 
+FAIRplus indicators are designed for measuring data sets compliance to Data Usage Areas. One indicator might support more than one [Data Usage Area]. Indicators are grouped according to the ISA framework. 
 
+![ISA](img\isa-structure.png)
+
+Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Design_and_Development_of_a_Phenotypic_Data_Model_PDM) 
 
 ## Index
 
@@ -36,7 +40,7 @@
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | Study-level documentation provides high-level information on the research context and design, the data collection methods used, any data preparations and manipulations and summaries of findings based on the data. Examples and a suggested list of coverage can be found at [UK Data Services](https://www.ukdataservice.ac.uk/manage-data/document/study-level.aspx). |
+| Description     | Study-level documentation provides high-level information on the research context and design, the data collection methods used, any data preparations and manipulations and summaries of findings based on the data. Examples and a suggested list of coverage can be found at [UK Data Services](https://www.ukdataservice.ac.uk/manage-data/document/study-level.aspx). <br><br>This indicator does not require any machine interpretable content, or semantic annotation of information with common vocabularies. It measures, availability of information to help data users to make informed use of the data. Publicly accessible web pages, pdf documents are acceptable formats. |
 | Related DU Area | Repurposing                                                  |
 
 
@@ -54,7 +58,7 @@
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | Biological and biomedical research has been considered an especially challenging research field in this regard, as data types are extremely heterogeneous and not all have defined data standards ([Griffin, et. all](https://www.biorxiv.org/content/10.1101/167619v1.full)). Metadata should capture all data types and format names in a study, if possible provide a reference or URL for format specification, if not possible have a description. [Example ](https://www.biorxiv.org/highwire/markup/341342/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed)list of common standard data formats for omics data. |
+| Description     | Biological and biomedical research has been considered an especially challenging research field in this regard, as data types are extremely heterogeneous and not all have defined data standards ([Griffin, et. all](https://www.biorxiv.org/content/10.1101/167619v1.full)). Metadata should capture all data types and format names in a study, if possible provide a reference or URL for format specification, if not possible have a description.<br/><br/>[Example ](https://www.biorxiv.org/highwire/markup/341342/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed)list of common standard data formats for omics data. |
 | Extends         | RDA-I1-01M Metadata uses knowledge representation expressed in standardised format |
 | Related DU Area | Interpretability                                             |
 
@@ -78,35 +82,35 @@
 
 
 
-#### <a name="F+S06"> F+S06 </a> :**Share not only derived and publication related data but data generated in early phases of research data workflow such as primary data and analyzed data.** 
+#### <a name="F+S06"> F+S06 </a> : **Share not only derived and publication related data but data generated in early phases of research data workflow such as primary data and analyzed data.** 
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | Life science experiments comprise different samples; based on experiment and sample, several measurements are performed. After quantification there is a step of data processing and analysis which results in life science research ([Colmsee](https://www.researchgate.net/publication/51724887_A_case_study_for_efficient_management_of_high_throughput_primary_lab_data/figures) et.all). In most cases, data is shared with publications as supplementary files, or in data repositories which are referenced by articles. However raw data and primary data resides in private storages ([Arend](https://www.researchgate.net/publication/263355191_EDAL_-_a_framework_to_store_share_and_publish_research_data/figures), et. all). There are great benefits of sharing primary data, including to make meaningful comparisons between results, to answer ‘what if’ questions and to carry out pilot studies without repeating experiments ([Koslow](https://www.nature.com/articles/nn0900_863) ). <br></br>This indicator measures availability of any primary data beyond the derived data or aggregated analyzed data. |
+| Description     | Life science experiments comprise different samples; based on experiment and sample, several measurements are performed. After quantification there is a step of data processing and analysis which results in life science research ([Colmsee](https://www.researchgate.net/publication/51724887_A_case_study_for_efficient_management_of_high_throughput_primary_lab_data/figures) et.all). In most cases, data is shared with publications as supplementary files, or in data repositories which are referenced by articles. However raw data and primary data resides in private storages ([Arend](https://www.researchgate.net/publication/263355191_EDAL_-_a_framework_to_store_share_and_publish_research_data/figures), et. all). There are great benefits of sharing primary data, including to make meaningful comparisons between results, to answer ‘what if’ questions and to carry out pilot studies without repeating experiments ([Koslow](https://www.nature.com/articles/nn0900_863) ). <br><br>This indicator measures availability of any primary data beyond the derived data or aggregated analyzed data. |
 | Related DU Area | Repurposing                                                  |
 
 
 
-#### <a name="F+S07"> F+S07 </a> :**Negative results are shared.**
+#### <a name="F+S07"> F+S07 </a> : **Negative results are shared.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | Negative results are the outcomes which do not support study hypotheses. Researchers are rewarded more for publishing novel findings, and not for publishing negative results. However, sharing negative results could reduce efforts and avoid repeating work that may be difficult to replicate ([ATCC](https://www.nature.com/articles/d42473-019-00004-y#ref-CR15)).Negative result also can be reported in publications (e.g. [Negative Results Journal](https://www.negative-results.org/)). <br/></br>This indicator measures the availability of negative results sets in the shared data content. |
+| Description     | Negative results are the outcomes which do not support study hypotheses. Researchers are rewarded more for publishing novel findings, and not for publishing negative results. However, sharing negative results could reduce efforts and avoid repeating work that may be difficult to replicate ([ATCC](https://www.nature.com/articles/d42473-019-00004-y#ref-CR15)).Negative result also can be reported in publications (e.g. [Negative Results Journal](https://www.negative-results.org/)). <br/><br>This indicator measures the availability of negative results sets in the shared data content. |
 | Related DU Area | Repurposing                                                  |
 
 
 
-#### <a name="F+S08"> F+S08 </a> :**The study is described with metadata including context, samples and data acquisition, methods for analyzing and processing data, quality control, and restriction for reuse.**
+#### <a name="F+S08"> F+S08 </a> : **The study is described with metadata including context, samples and data acquisition, methods for analyzing and processing data, quality control, and restriction for reuse.**
 
 |             |                                                              |
 | ----------- | ------------------------------------------------------------ |
-| Description | This indicator can be evaluated in two phases:<br/></br> 1) providing a structured metadata with domain conventions;<br/></br> 2) providing machine readable metadata by using any common vocabularies. <br/></br>This indicator is divided into a set of indicators from F+S08a to F+S08d. |
+| Description | This indicator can be evaluated in two phases:<br/><br> 1) providing a structured metadata with domain conventions;<br/><br> 2) providing machine readable metadata by using any common vocabularies. <br/><br>This indicator is divided into a set of indicators from F+S08a to F+S08d. |
 
-#### <a name="F+S08a"> F+S08a </a> :**Metadata includes information about the study design, protocols and data collection methods.**
+#### <a name="F+S08a"> F+S08a </a> : **Metadata includes information about the study design, protocols and data collection methods.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | Example metadata: study / experiment design, trial protocol, data acquisition methods, experiment methods, data processing methods . See [multi omics metadata](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903324/table/T1/) check list, [clinical trial metadata](https://www.ncbi.nlm.nih.gov/books/NBK286004/box/box_4-1/?report=objectonly) |
+| Description     | Example metadata: study / experiment design, trial protocol, data acquisition methods, experiment methods, data processing methods .<br/>See [multi omics metadata](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903324/table/T1/) check list, [clinical trial metadata](https://www.ncbi.nlm.nih.gov/books/NBK286004/box/box_4-1/?report=objectonly) |
 | Related DU Area | Reproducibility + Repurposing                                |
 
 
@@ -159,7 +163,7 @@
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | A schema describes the structure of the data. Special schemes have meanings associated with databases, such as community agreed profiles. A schema consists of a key dimension and its properties, expected types, constraints, cardinalities and associated controlled vocabularies (preferably refers to existing ontologies). Schemas and profiles can be registered and reused, forsee examples [FAIRsharing.org/standards](https://fairsharing.org/standards/) and specific examples such as [Schema.org](https://schema.org/docs/schemas.html), [Bioschemas](https://bioschemas.org/profiles/), or [HL7 resources](https://www.hl7.org/fhir/resourcelist.html) in the context of health data records. |
+| Description     | A schema describes the structure of the data. Special schemes have meanings associated with databases, such as community agreed profiles. A schema consists of a key dimension and its properties, expected types, constraints, cardinalities and associated controlled vocabularies (preferably refers to existing ontologies). Schemas and profiles can be registered and reused, for examples [FAIRsharing Standards](https://fairsharing.org/standards/) and specific examples such as [Schema.org](https://schema.org/docs/schemas.html), [Bioschemas](https://bioschemas.org/profiles/), or [HL7 resources](https://www.hl7.org/fhir/resourcelist.html) in the context of health data records. |
 | Extends         | RDA-I1-01D Data uses knowledge representation expressed in standardised format |
 | Related DU Area | Integration                                                  |
 
