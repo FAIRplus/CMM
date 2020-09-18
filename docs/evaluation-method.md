@@ -13,13 +13,16 @@ Current FAIRplus indicators measure compliance of data sets to given Data Usage 
 ## How to use FAIRplus Indicators:
 1) Download Evaluation form <a href="https://github.com/FAIRplus/CMM/raw/master/docs/Data%20FAIRness%20Assessment.xlsx">here</a>.
 
-2) Read the Indicator's detail description and examples of FAIRplus indicators from Github
+2) Read the detailed descriptions of [FAIRplus Indicators](Fair+Indicators.md).
+
 ![indicator-detail](img/indicator-detail.PNG)
 
-3) Perform manual evaluation for each metric and provide the compliance level
+3) Select **Evaluation** option from the drop-down in the **Evaluation Form** (from Step 1) and perform manual evaluation for each metric to provide the compliance level.
+
 ![manual-evaluation](img/manual-evaluation.PNG)
 
-4) Create the Level of Compliance Visualization for each data usage area in the Excel
+4) Check the Level of Compliance Visualization for each Data Usage area in the **Maturity of DU Areas** sheet of the Evaluation Form.
+
 ![level-of-compliance](img/level-of-compliance.PNG)
 
 5) Decide the Data Usage areas that needs focus in your FAIRification and list the corresponding Indicators to improve.
