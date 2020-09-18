@@ -32,7 +32,7 @@ The indicator maturity levels are defined as follows:
 - Also measures the FAIRness per area. 
 	- It is measured per indicator and aggregated per FAIR area. The level per area is determined based on the compliance to priorities. This is used to provide a **measure of FAIRness**.
 
-! [compliance-levels](img/compliance-levels.PNG)
+![compliance-levels](img/compliance-levels.PNG)
 
 
 ### Visualization of Maturity Levels
