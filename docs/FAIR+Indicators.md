@@ -1,11 +1,11 @@
 # FAIR + Indicators
 > version : v0.01
 
-FAIRplus indicators are designed for measuring data sets compliance to Data Usage Areas. One indicator might support more than one [Data Usage Area]. Indicators are grouped according to the ISA framework. 
+FAIRplus indicators are designed for measuring data sets compliance to Data Usage Areas. One indicator might support more than one [Data Usage Area]. Indicators are grouped according to the ISA framework.
 
 ![ISA](img/isa-structure.png)
 
-Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Design_and_Development_of_a_Phenotypic_Data_Model_PDM) 
+Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Design_and_Development_of_a_Phenotypic_Data_Model_PDM)
 
 ## Index
 
@@ -49,7 +49,7 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | A reporting standard ensures recording the information (metadata) required to unambiguously communicate experimental designs, treatments and analyses, to con-textualize the data generated. Such standards are also known as data content or minimum information standards ([Chervitz, et all.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/)). See examples: reporting standards for[ health care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/table/T8/?report=objectonly), for [life sciences](https://www.biorxiv.org/content/biorxiv/early/2017/07/24/167619/T4/graphic-10.large.jpg) data, collection of [FAIRsharing ](https://fairsharing.org/standards/?q=minimum+information&selected_facets=type_exact:reporting guideline) |
+| Description     | A reporting standard ensures recording the information (metadata) required to unambiguously communicate experimental designs, treatments and analyses, to con-textualize the data generated. Such standards are also known as data content or minimum information standards ([Chervitz, et all.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/)). See examples: reporting standards for[ health care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/table/T8/?report=objectonly), for [life sciences](https://www.biorxiv.org/content/biorxiv/early/2017/07/24/167619/T4/graphic-10.large.jpg) data, collection of [FAIRsharing ](https://fairsharing.org/standards/?q=minimum+information&selected_facets=type_exact:reporting%20guideline) |
 | Related DU Area | Reproducibility + Repurposing                                |
 
 
@@ -59,12 +59,11 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
 | Description     | Biological and biomedical research has been considered an especially challenging research field in this regard, as data types are extremely heterogeneous and not all have defined data standards ([Griffin, et. all](https://www.biorxiv.org/content/10.1101/167619v1.full)). Metadata should capture all data types and format names in a study, if possible provide a reference or URL for format specification, if not possible have a description.<br/><br/>[Example ](https://www.biorxiv.org/highwire/markup/341342/expansion?width=1000&height=500&iframe=true&postprocessors=highwire_tables%2Chighwire_reclass%2Chighwire_figures%2Chighwire_math%2Chighwire_inline_linked_media%2Chighwire_embed)list of common standard data formats for omics data. |
-| Extends         | RDA-I1-01M Metadata uses knowledge representation expressed in standardised format |
 | Related DU Area | Interpretability                                             |
 
-  
 
-#### <a name="F+S04"> F+S04</a> : **Relationships between different data sets in a study is well defined.** 
+
+#### <a name="F+S04"> F+S04</a> : **Relationships between different data sets in a study is well defined.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -73,16 +72,16 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 
 
 
-#### <a name="F+S05"> F+S05 </a> : **A versioning policy is applied to uniquely identify a particular form of a dataset from an earlier form or other forms of itself.** 
+#### <a name="F+S05"> F+S05 </a> : **A versioning policy is applied to uniquely identify a particular form of a dataset from an earlier form or other forms of itself.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
-| Description     | Versioning is tracking the changes made in data by saving new copies of data files with indicators of the changes made. A new version is created when there is a change in the structure, contents, or condition of the resource. In the case of research data, a new version of a dataset may be created when an existing dataset is reprocessed, corrected or appended with additional data. Versioned data are required to cite and identify the exact dataset used as a research input in order to support research reproducibility and trustworthiness ([ANDS](https://www.ands.org.au/working-with-data/data-management/data-versioning)). <br><br/>Best practices of versioning should include a numbering system, information about the status of the file, and what changes are made (see YALE Research Data Management for the Health Sciences: [File Versioning ](https://guides.library.yale.edu/rdm_healthsci/versioning#:~:text=Versioning involves tracking the changes,access older copies of files.)) . PIDs can be assigned for versions, however there is no convention for that (see [ANDS](https://www.ands.org.au/working-with-data/data-management/data-versioning) : DOIs for versioned data). Some simple versioning solutions can be adopted (see [Stanford libraries](https://library.stanford.edu/research/data-management-services/data-best-practices/data-versioning), Uni. [Virginia Library](https://data.library.virginia.edu/data-management/plan/files/)). |
+| Description     | Versioning is tracking the changes made in data by saving new copies of data files with indicators of the changes made. A new version is created when there is a change in the structure, contents, or condition of the resource. In the case of research data, a new version of a dataset may be created when an existing dataset is reprocessed, corrected or appended with additional data. Versioned data are required to cite and identify the exact dataset used as a research input in order to support research reproducibility and trustworthiness ([ANDS](https://www.ands.org.au/working-with-data/data-management/data-versioning)). <br><br/>Best practices of versioning should include a numbering system, information about the status of the file, and what changes are made (see YALE Research Data Management for the Health Sciences: [File Versioning ](https://guides.library.yale.edu/rdm_healthsci/versioning#:~:text=Versioning) involves tracking the changes,access older copies of files.)) . PIDs can be assigned for versions, however there is no convention for that (see [ANDS](https://www.ands.org.au/working-with-data/data-management/data-versioning) : DOIs for versioned data). Some simple versioning solutions can be adopted (see [Stanford libraries](https://library.stanford.edu/research/data-management-services/data-best-practices/data-versioning), Uni. [Virginia Library](https://data.library.virginia.edu/data-management/plan/files/)). |
 | Related DU Area | Reproducibility + Repurposing                                |
 
 
 
-#### <a name="F+S06"> F+S06 </a> : **Share not only derived and publication related data but data generated in early phases of research data workflow such as primary data and analyzed data.** 
+#### <a name="F+S06"> F+S06 </a> : **Share not only derived and publication related data but data generated in early phases of research data workflow such as primary data and analyzed data.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -104,7 +103,7 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 
 |             |                                                              |
 | ----------- | ------------------------------------------------------------ |
-| Description | This indicator can be evaluated in two phases:<br/><br> 1) providing a structured metadata with domain conventions;<br/><br> 2) providing machine readable metadata by using any common vocabularies. <br/><br>This indicator is divided into a set of indicators from F+S08a to F+S08d. |
+| Description | This indicator can be evaluated in two phases: 1) providing a structured metadata with domain conventions; 2) providing machine readable metadata by using any common vocabularies. <br/><br>This indicator is divided into a set of indicators from F+S08a to F+S08d. |
 
 #### <a name="F+S08a"> F+S08a </a> : **Metadata includes information about the study design, protocols and data collection methods.**
 
@@ -124,7 +123,7 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 
 
 
-#### <a name="F+S08c"> F+S08c</a> : **Metadata contains information about data processing methods, data analysis and quality assurance metrics.** 
+#### <a name="F+S08c"> F+S08c</a> : **Metadata contains information about data processing methods, data analysis and quality assurance metrics.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -133,7 +132,7 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 
 
 
-#### <a name="F+S08d"> F+S08d </a> :**Metadata includes information about data ownership, license and reuse constraints for sensitive data.** 
+#### <a name="F+S08d"> F+S08d </a> :**Metadata includes information about data ownership, license and reuse constraints for sensitive data.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -151,20 +150,18 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 | Description     | Data-level, or object-level, documentation provides information at the level of variables in a database or individual objects such as images. Data-level information can be embedded in data files, such as variable, value and code labels in an SPSS file or headers in a document. Examples for quantitative, qualitative and secondary source documentation can be found at [UK Data Services](https://www.ukdataservice.ac.uk/manage-data/document/study-level.aspx).<br/><br/>This indicator does not require any machine readable content, or semantic annotation of information with common vocabularies. It measures how easily data can be explored and understood by humans who are familiar with the domain. |
 | Related DU Area | Interpretability                                             |
 
-#### <a name="F+A02"> F+A02 </a> : **Data is encoded in a community specific exchange standard.** 
+#### <a name="F+A02"> F+A02 </a> : **Data is encoded in a community specific exchange standard.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
 | Description     | A data exchange standard defined the encoding format of data. A data exchange standard delineates what data types can be encoded and the particular way they should be encoded (e.g., tab-delimited columns, XML, binary, etc. They facilitate the exchange of information between researchers and organizations, and between software programs or information storage systems. ). They provide syntax standards but do not specify what the document should contain in order to be considered complete ([Chervitz, et all.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/)).<br/></br> See examples for [omic data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/table/T4/), for microarray-based [transcriptomics ](https://www.researchgate.net/publication/257204855_A_sea_of_standards_for_omics_data_Sink_or_swim/figures), for [clinical data](https://en.wikipedia.org/wiki/Clinical_Data_Interchange_Standards_Consortium#Individual_standards). |
-| Extends         | RDA-I1-01D Data uses knowledge representation expressed in standardised format |
 | Related DU Area | Integration                                                  |
 
-#### <a name="F+A03"> F+A03 </a> : **A machine and human readable formal description of the structure of data is available including types, properties.** 
+#### <a name="F+A03"> F+A03 </a> : **A machine and human readable formal description of the structure of data is available including types, properties.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
 | Description     | A schema describes the structure of the data. Special schemes have meanings associated with databases, such as community agreed profiles. A schema consists of a key dimension and its properties, expected types, constraints, cardinalities and associated controlled vocabularies (preferably refers to existing ontologies). Schemas and profiles can be registered and reused, for examples [FAIRsharing Standards](https://fairsharing.org/standards/) and specific examples such as [Schema.org](https://schema.org/docs/schemas.html), [Bioschemas](https://bioschemas.org/profiles/), or [HL7 resources](https://www.hl7.org/fhir/resourcelist.html) in the context of health data records. |
-| Extends         | RDA-I1-01D Data uses knowledge representation expressed in standardised format |
 | Related DU Area | Integration                                                  |
 
 
@@ -183,14 +180,9 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 | Description     | Terminology standards is typically defined by the use cases and provides control vocabularies to support and competency questions it is designed to answer. In life sciences domain ontologies are common ways to encode terminology standards ([Chervitz, et all.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/)). Terminology standards add an interpretive layer to the data by defining the concepts or terms in a domain, and in some cases the relationships between them ([Tenenbaum et. all](https://doi.org/10.1136/amiajnl-2013-002066)). See an example list for [terminology standards](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152841/table/T5/). For a complete listing see the [OBO ](http://www.obofoundry.org)Foundry. |
 | Related DU Area | Interpretability \+ Integration                              |
 
-####  <a name="F+A06">F+A06  </a> : **Core data classes (important data elements) follows a common master and reference data entity.** 
+####  <a name="F+A06">F+A06  </a> : **Core data classes (important data elements) follows a common master and reference data entity.**
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
 | Description     | Master data is defined as core business objects used in different applications across an organization along with their associated metadata, definitions and taxonomies. Reference data is used to characterize or classify other data such as codes and description tables. Master and Reference data lowers cost and complexity through use of standards, common data models, and integration patterns. Sharing master data within a community or in organization reduces variability caused by multiple studies producing the same type of data, but in isolation, then inconsistencies in data structure and data values between the systems occurs (DAMA). <br>In the life science domain, master data entities examples can be a study, a subject, a file, a chemical compound, or an observation. Common data models provide core classes which can be useful for creating master data elements (see[ LS DAM ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3486731/)Experiment, Molecular Biology, Molecular Databases core classes). However master data should be described, are assigned an unique identifier, and registered on a searchable source. An example to reference data from the health domain can be the [value set](https://simplifier.net/guide/ProfilingAcademy/Terminology) of the HL7.<br><br>Precondition of measuring this indicator is the existence of a master and reference data in a related research community, an organization, or a repository. |
 | Related DU Area | Integration                                                  |
-
-
-
-
-###
