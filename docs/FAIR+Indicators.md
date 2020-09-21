@@ -36,7 +36,7 @@ Image Reference : [Khan](https://www.researchgate.net/publication/333163209_Desi
 
 ### Study Level
 
-#### <a name="F+S01"> F+S01 </a> : Data is reported by following community specific minimum information guidelines
+#### <a name="F+S01"> F+S01 </a> : Study level documentation is available in a human readable format.
 
 |                 |                                                              |
 | --------------- | ------------------------------------------------------------ |
