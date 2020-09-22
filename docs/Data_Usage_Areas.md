@@ -17,7 +17,7 @@ Each organization or research community might have different business goals for 
 Potential future Data Usage areas:
 
 -   Regulatory Reporting: Easily fulfill the mandatory reporting requirements
-    
+
 -   Data Analytics (machine actionable data): Easy access by services and running algorithms and computational models
 
 
@@ -26,7 +26,6 @@ Potential future Data Usage areas:
 |Data Usage Area|Related Set of Indicators|
 |----------------|-------------------------------|
 |Data Interpretability|[F+S03](FAIR+Indicators.md#F+S03), [F+S04](FAIR+Indicators.md#F+S04), [F+A01](FAIR+Indicators.md#F+A01), [F+A02](FAIR+Indicators.md#F+A02), [F+A04](FAIR+Indicators.md#F+A04), [F+A05](FAIR+Indicators.md#F+A05),|
-|Data Integration|[F+A03](FAIR+Indicators.md#F+A03), [F+A04](FAIR+Indicators.md#F+A04), [F+A05](FAIR+Indicators.md#F+A05), [F+A06](FAIR+Indicators.md#F+A06)|
+|Data Integration|[F+A02](FAIR+Indicators.md#F+A02), [F+A03](FAIR+Indicators.md#F+A03), [F+A04](FAIR+Indicators.md#F+A04), [F+A05](FAIR+Indicators.md#F+A05), [F+A06](FAIR+Indicators.md#F+A06)|
 |Data Repurposing|[F+S01](FAIR+Indicators.md#F+S01), [F+S02](FAIR+Indicators.md#F+S02), [F+S04](FAIR+Indicators.md#F+S04), [F+S05](FAIR+Indicators.md#F+S05), [F+S06](FAIR+Indicators.md#F+S06), [F+S07](FAIR+Indicators.md#F+S07), [F+S08a](FAIR+Indicators.md#F+S08a), [F+S08b](FAIR+Indicators.md#F+S08b), [F+S08c](FAIR+Indicators.md#F+S08c), [F+S08d](FAIR+Indicators.md#F+S08d)|
 |Data Reproducibility|[F+S02](FAIR+Indicators.md#F+S02), [F+S05](FAIR+Indicators.md#F+S05), [F+S08a](FAIR+Indicators.md#F+S08a), [F+S08b](FAIR+Indicators.md#F+S08b), [F+S08c](FAIR+Indicators.md#F+S08c)|
-
