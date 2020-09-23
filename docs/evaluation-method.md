@@ -13,7 +13,7 @@ Current FAIRplus indicators measure compliance of data sets to given Data Usage 
 ## How to use FAIRplus Indicators:
 1) Download Evaluation form <a href="https://github.com/FAIRplus/CMM/raw/master/docs/Data%20FAIRness%20Assessment.xlsx">here</a>.
 
-2) Read the detailed descriptions of [FAIRplus Indicators](Fair+Indicators.md).
+2) Read the detailed descriptions of [FAIRplus Indicators](FAIR%2BIndicators.md).
 
 ![indicator-detail](img/indicator-detail.PNG)
 
