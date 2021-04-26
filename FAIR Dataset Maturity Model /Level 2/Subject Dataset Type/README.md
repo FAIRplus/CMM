@@ -1,0 +1,9 @@
+#Subject Dataset Type
+A Subject dataset type descriptor describes a class of datasets the subject matter
+of which are the subjects recruited in a study. It includes data that describe each
+subject across a study as whole. For example, subject demographics and other characteristics
+that could be of importance for the study data interpretation. Also data
+that associates subjects to the different study design elements such as different cohorts
+(treatment groups), study visits and locations. Datasets described by instances
+of this meta-descriptor are usually linked to all other subject-related datasets via a
+"SubjectIdentifier" field that references the key identifier field in this dataset.
